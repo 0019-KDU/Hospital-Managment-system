@@ -16,19 +16,7 @@ we can connect our Java application with the MySQL database through the Java cod
 [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/?os=26)
 
 ##### Java Code to Connect to MySQL
-`import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-
-public class MySQLConnectionExample {
-public static void main(String[] args) {
-// JDBC URL, username, and password of MySQL server
-String url = "jdbc:mysql://localhost:3306/your_database_name";
-String user = "your_username";
-String password = "your_password";
-
-        // JDBC variables for opening, closing, and managing connection
-        Connection connection = null;
+`
 
         try {
             // Establishing a connection to the database
@@ -52,3 +40,11 @@ String password = "your_password";
     }
 }
 `
+
+so next above sytem have below function
+
+**🏥Managing Patients and Doctors: Learn how to add, view, and manage patient and doctor information within the system.**
+
+**🗓 **Booking** Appointments: Implement functionality to schedule appointments, ensuring a smooth healthcare scheduling process.**
+
+**🕒 Checking Doctor Availability: Create a feature that allows users to verify doctor availability for specific dates.**
