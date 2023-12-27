@@ -1,6 +1,6 @@
 # Hospital-Managment-system
 
-This project building a complete Hospital Management System using Java and JDBC.  looking to enhance your Java skills, this project is a fantastic opportunity to learn and practice.
+This project building a complete Hospital Management System using Java and JDBC.  looking to enhance my Java skills, this project is a fantastic opportunity to learn and practice.
 
 My main purpose create above project learing the JDBC.
 
